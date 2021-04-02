@@ -1,0 +1,1 @@
+This repo is for effectlively use cmake
