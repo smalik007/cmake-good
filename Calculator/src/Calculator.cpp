@@ -12,4 +12,4 @@
 
 using namespace std;
 
-void calculator::printHello() { cout << "Hello\n"; }
+void calculator::printVersion() { cout << "Calculator Version : " << CALCULATOR_VERSION << endl; }

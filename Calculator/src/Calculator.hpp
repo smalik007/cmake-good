@@ -17,6 +17,6 @@ T sum(T a, T b) {
 }
 
 /* We can put non templated func in .cpp */
-void printHello();
+void printVersion();
 
 }  // namespace calculator
